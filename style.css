@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    font-family: Arial, Helvetica, sans-serif§;
+
+    background: #1b1b1b;
+}
+
+.navbar-icon img {
+    width: 45px;
+    height: 45px;
+}
